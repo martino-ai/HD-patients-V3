@@ -3,10 +3,12 @@ body {
     background-color: #f2f2f2;
     text-align: center;
     padding: 100px;
+    font-size: 48px; /* 加大全頁基本字體 */
   }
   
   h1 {
     color: #2c3e50;
+    font-size: 56px; /* 加大標題 */
   }
   
   p {
@@ -44,4 +46,5 @@ body {
   }
 
   
+
 
